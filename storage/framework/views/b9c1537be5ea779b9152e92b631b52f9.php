@@ -1,0 +1,2 @@
+<img src="<?php echo e(asset("logo.png")); ?>" <?php echo e($attributes); ?>/>
+<?php /**PATH C:\Users\chinweihong\Herd\ca_exam_question-master\resources\views/components/application-logo.blade.php ENDPATH**/ ?>
